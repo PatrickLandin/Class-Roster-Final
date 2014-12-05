@@ -42,7 +42,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
-    }
+    } // viewDidLoad
     
         override func viewWillAppear(animated: Bool) {
             super.viewWillAppear(animated)

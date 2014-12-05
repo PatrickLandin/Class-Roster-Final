@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EC60A38C1A252C8300E71C57 /* P1Butt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC60A38B1A252C8300E71C57 /* P1Butt.jpg */; };
+		EC75D4101A32520500B602AC /* P1Butt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC75D40F1A32520500B602AC /* P1Butt.jpg */; };
 		EC9EF7761A0E8D5900869069 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC9EF7751A0E8D5900869069 /* AppDelegate.swift */; };
 		EC9EF7781A0E8D5900869069 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC9EF7771A0E8D5900869069 /* ViewController.swift */; };
 		EC9EF77B1A0E8D5900869069 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC9EF7791A0E8D5900869069 /* Main.storyboard */; };
@@ -31,7 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EC60A38B1A252C8300E71C57 /* P1Butt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = P1Butt.jpg; path = ../../../Pictures/P1Butt.jpg; sourceTree = "<group>"; };
+		EC75D40F1A32520500B602AC /* P1Butt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = P1Butt.jpg; path = ../../../Pictures/P1Butt.jpg; sourceTree = "<group>"; };
 		EC9EF7701A0E8D5900869069 /* ClassRoster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassRoster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC9EF7741A0E8D5900869069 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC9EF7751A0E8D5900869069 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -95,7 +95,6 @@
 				ECBC71DE1A1AFAF300ECBBA8 /* PersonTableViewCell.swift */,
 				EC9EF7791A0E8D5900869069 /* Main.storyboard */,
 				EC9EF77C1A0E8D5900869069 /* Images.xcassets */,
-				EC60A38B1A252C8300E71C57 /* P1Butt.jpg */,
 				EC9EF77E1A0E8D5900869069 /* LaunchScreen.xib */,
 				EC9EF7731A0E8D5900869069 /* Supporting Files */,
 				EC9EF7991A0E8F2400869069 /* Homework.playground */,
@@ -107,6 +106,7 @@
 		EC9EF7731A0E8D5900869069 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EC75D40F1A32520500B602AC /* P1Butt.jpg */,
 				EC9EF7741A0E8D5900869069 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -212,7 +212,7 @@
 			files = (
 				EC9EF77B1A0E8D5900869069 /* Main.storyboard in Resources */,
 				EC9EF7801A0E8D5900869069 /* LaunchScreen.xib in Resources */,
-				EC60A38C1A252C8300E71C57 /* P1Butt.jpg in Resources */,
+				EC75D4101A32520500B602AC /* P1Butt.jpg in Resources */,
 				ECBC71E11A1B066B00ECBBA8 /* Roster.plist in Resources */,
 				EC9EF77D1A0E8D5900869069 /* Images.xcassets in Resources */,
 			);

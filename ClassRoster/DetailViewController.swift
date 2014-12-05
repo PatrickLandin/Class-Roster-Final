@@ -19,7 +19,7 @@ class DetailViewController: UIViewController, UITextFieldDelegate, UIImagePicker
     var imagePickerController = UIImagePickerController()
     
     var selectedPerson = Person?()
-    // uses the defailt init()
+    // uses the default init()
     
     override func viewDidLoad() {
         super.viewDidLoad()
